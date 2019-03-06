@@ -2,12 +2,12 @@ import firebase from 'firebase/app'
 import 'firebase/database'
 
 const config = {
-    apiKey: "AIzaSyBfaGsIgx1-EMyj-3oiK0xpPJ3moNpLnmM",
-    authDomain: "comments-reactjs-dev.firebaseapp.com",
-    databaseURL: "https://comments-reactjs-dev.firebaseio.com",
-    projectId: "comments-reactjs-dev",
-    storageBucket: "comments-reactjs-dev.appspot.com",
-    messagingSenderId: "24500685919"
+    apiKey: "AIzaSyAPrQZ7PXv3qBUQ9nD6OZKS4KKN-PChno4",
+    authDomain: "comments-dev-10c18.firebaseapp.com",
+    databaseURL: "https://comments-dev-10c18.firebaseio.com",
+    projectId: "comments-dev-10c18",
+    storageBucket: "",
+    messagingSenderId: "988295222305"
 }
 firebase.initializeApp(config)
 
