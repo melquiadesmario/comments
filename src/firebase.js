@@ -6,7 +6,7 @@ const config = {
     authDomain: "comments-dev-10c18.firebaseapp.com",
     databaseURL: "https://comments-dev-10c18.firebaseio.com",
     projectId: "comments-dev-10c18",
-    storageBucket: "",
+    storageBucket: "comments-dev-10c18.appspot.com",
     messagingSenderId: "988295222305"
 }
 firebase.initializeApp(config)
